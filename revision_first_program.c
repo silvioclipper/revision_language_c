@@ -2,6 +2,6 @@
 
 int main ()
 {
-    printf("Remember my first program in c. \n");
+    printf("Remember my first program in c! \n");
     return 0;
 }
